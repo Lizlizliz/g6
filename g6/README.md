@@ -1,4 +1,4 @@
-# g6
+# y
 
 > A Vue.js project
 
